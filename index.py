@@ -17,3 +17,6 @@ def Substract(nmu1,num2):
 
 def Multiplication(num1,num2):
     return num1 * num2
+
+def Division(num1,num2):
+    return num1/num2
