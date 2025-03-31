@@ -20,3 +20,6 @@ def Multiplication(num1,num2):
 
 def Division(num1,num2):
     return num1/num2
+
+def Percentage():
+    return "100%"
