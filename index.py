@@ -12,3 +12,8 @@ def Substract(nmu1,num2):
         return num1-num2
     else:
         return num2 -num1
+    
+#multiplication functionality
+
+def Multiplication(num1,num2):
+    return num1 * num2
